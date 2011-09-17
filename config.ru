@@ -1,2 +1,2 @@
-require 'wince'
+require './wince'
 run Sinatra::Application
